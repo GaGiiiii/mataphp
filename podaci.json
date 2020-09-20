@@ -1,0 +1,23 @@
+[
+  {
+    "ime": "GaGi",
+    "prezime": "GaGic",
+    "email": "gagi@gagi.com",
+    "broj_telefona": "0652844698",
+    "broj_karata": "2"
+  },
+  {
+    "ime": "Mata",
+    "prezime": "Matic",
+    "email": "mata@mata.com",
+    "broj_telefona": "06589644233",
+    "broj_karata": "5"
+  },
+  {
+    "ime": "Djadji",
+    "prezime": "Djadjic",
+    "email": "djadji@djadji.com",
+    "broj_telefona": "0654789653",
+    "broj_karata": "4"
+  }
+]
